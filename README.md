@@ -29,7 +29,7 @@ The main objective of this project is to:
 * `amount` – Order amount (Revenue)
 
 **Dataset Link:**
-[Download online_sales_dataset.sql](sandbox:/mnt/data/online_sales_dataset.sql)
+[Download online_sales_dataset.sql](https://github.com/Debabrataswain3/online_sales/blob/main/online_sales_dataset.sql)
 
 ---
 
